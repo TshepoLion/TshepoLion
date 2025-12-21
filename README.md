@@ -38,6 +38,9 @@ opportunity to collaborate with like-minded professionals.
 ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 -🧱 Design partition keys & clustering keys
+
 -🔎 Write and run CQL queries
+
 -📦 Model data for read-heavy workloads
+
 -🔁 Understand replication & consistency basics
