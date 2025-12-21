@@ -1,10 +1,13 @@
 
 ## Hi there, I'm Tshepo 👋
 
+Experienced IT Support Professional with 5 years of hands-on experience working at
+various companies on part time basis. Skilled in System Operations, Installing, Web
+Design, and System Updates. I matriculated in 2020 and am eager to apply my expertise
+and passion for technology to contribute effectively to your team. My goal is to enhance
+user experiences while ensuring seamless IT operations, and I am excited about the
+opportunity to collaborate with like-minded professionals.
 
-**TshepoLion/TshepoLion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 ## Coding Languages
