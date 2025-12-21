@@ -16,4 +16,8 @@ opportunity to collaborate with like-minded professionals.
 - 🎨 CSS
 - 🐍 Python 
 - 🌐 JavaScript
-- 🐬 MySQL 
+
+## 🗄️ Databases & Query Languages
+
+- 🐬 MySQL (SQL)
+- 🗄️ Apache Cassandra (CQL)
